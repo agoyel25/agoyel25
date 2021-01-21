@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.agoyel25.vercel.app/" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/agoyel25)
+[<img src="https://novatorem.agoyel25.vercel.app/" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/agoyel25)
 
 
 
