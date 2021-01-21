@@ -16,8 +16,7 @@
 - ⚡ Fun fact **I am in love with linux**
 
 ### Spotify Playing 🎧
-
-[<img src="https://novatorem.agoyel25.vercel.app/" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/agoyel25)
+[![Spotify](https://novatorem.agoyel25.vercel.app/api/spotify)](https://open.spotify.com/user/agoyel25)
 
 
 
