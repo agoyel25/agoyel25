@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **I am in love with linux**
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-git-master.agoyel25.vercel.app/api/spotify)](https://open.spotify.com/user/agoyel25)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
