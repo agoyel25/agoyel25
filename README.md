@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Python JS and bash scripting**
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 🤝 I’m looking for help with **everything xD**
 
