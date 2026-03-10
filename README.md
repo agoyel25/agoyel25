@@ -42,39 +42,11 @@ Key work includes:
 
 # 🚀 Projects
 
-## 🧠 BookmarkBrain
-Turn your **Twitter bookmarks & Reddit saves into a searchable AI second brain**
-
-Features:
-
-- Semantic search
-- AI answers with citations
-- Local-first privacy
-- Bring Your Own Key (OpenRouter / OpenAI / Gemini)
-
-🔗 Repo  
-https://github.com/agoyel25/BookmarkBrain
-
-
----
-
-## 🎬 ClipDecode
-Extract and understand information from clips and media.
-
-🔗 Website  
-https://www.clipdecode.com/
-
-
----
-
-## 😂 Incel Rankings
-A parody project ranking internet incel archetypes.
-
-Just for fun.
-
-🔗 Website  
-https://www.incelrankings.com/
-
+| Project | Description | Link |
+|--------|-------------|------|
+| 🧠 BookmarkBrain | Twitter bookmarks & Reddit saves → searchable AI second brain | [Repo](https://github.com/agoyel25/BookmarkBrain) |
+| 🎬 ClipDecode | Extract and understand information from video clips | [Website](https://www.clipdecode.com/) |
+| 😂 Incel Rankings | Parody rankings of internet incel archetypes — just for fun | [Website](https://www.incelrankings.com/) |
 
 ---
 
@@ -82,6 +54,11 @@ https://www.incelrankings.com/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agoyel25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoyel25&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=agoyel25&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -98,6 +75,7 @@ https://www.incelrankings.com/
 ### Backend
 - Python
 - Node.js
+- Golang
 - PostgreSQL
 - Redis
 
