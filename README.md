@@ -46,7 +46,8 @@ Key work includes:
 |--------|-------------|------|
 | 🧠 BookmarkBrain | Twitter bookmarks & Reddit saves → searchable AI second brain | [Repo](https://github.com/agoyel25/BookmarkBrain) |
 | 🎬 ClipDecode | Extract and understand information from video clips | [Website](https://www.clipdecode.com/) |
-| 😂 Incel Rankings | Parody rankings of internet incel archetypes — just for fun | [Website](https://www.incelrankings.com/) |
+| 🤖 Lazyapply | AI Chrome extension that replies to posts on X and Reddit from inside the native UI | [Website](https://lazyapply.xyz) |
+| 🐀 packrat | Go CLI for backing up WSL home directories — interactive TUI, .tar.zst compression, package snapshots, one-command restore | [Repo](https://github.com/agoyel25/Packrat) |
 
 ---
 
